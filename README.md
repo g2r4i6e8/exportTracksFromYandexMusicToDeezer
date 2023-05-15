@@ -16,8 +16,8 @@
 
     **!!ATTENTION!!** A redirect to another page will happen very quickly, so you need to cancel the page loading as soon as a link with access token appears.
     
-    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth1.png?raw=true" width="600" />
-    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth2.png?raw=true" width="600" />
+    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth1.png?raw=true" width="1000" />
+    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth2.png?raw=true" width="1000" />
 5. Save your token that you can find right after *access_token=*
 
 ### Getting Deezer Token
@@ -41,7 +41,7 @@
    - Redirect to a page showing the API token & expiry (usually one hour but it is enough).
 6. Save your token
 
-   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp2.jpg?raw=true" width="600" />
+   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp2.png?raw=true" width="600" />
 
 ## External requirements
 
