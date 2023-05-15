@@ -1,6 +1,6 @@
 # Transfer your tracks from Yandex Music to Deezer
 
-## How to transfer playlists  from Yandex Music to Deezer
+## How to transfer data from Yandex Music to Deezer
 1. [Obtain Yandex Music Token](#getting-yandex-music-token)
 2. [Obtain Deezer Token](#getting-deezer-token)
 3. Launch script to start transferring your playlists from Yandex Music to Deezer
@@ -16,8 +16,8 @@
 
     **!!ATTENTION!!** A redirect to another page will happen very quickly, so you need to cancel the page loading as soon as a link with access token appears.
     
-    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/main/docs/auth1.png?raw=true" width="600" />
-    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/main/docs/auth2.png?raw=true" width="600" />
+    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth1.png?raw=true" width="600" />
+    <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/auth2.png?raw=true" width="600" />
 5. Save your token that you can find right after *access_token=*
 
 ### Getting Deezer Token
@@ -27,7 +27,7 @@
    
    Other fields may be filled in with some random data.
    
-   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/main/docs/deezerApp1.jpg?raw=true" width="600" />
+   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp1.jpg?raw=true" width="600" />
 4. Install [deezer-oauth-cli](https://pypi.org/project/deezer-oauth-cli/) via pip: `pip install deezer-oauth-cli`
 5. Run this tool using the following syntax: 
    
@@ -41,7 +41,7 @@
    - Redirect to a page showing the API token & expiry (usually one hour but it is enough).
 6. Save your token
 
-   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/main/docs/deezerApp2.jpg?raw=true" width="600" />
+   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp2.jpg?raw=true" width="600" />
 
 ## External requirements
 
