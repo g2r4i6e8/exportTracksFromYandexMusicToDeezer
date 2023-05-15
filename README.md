@@ -35,13 +35,15 @@
    $ deezer-oauth APP_ID APP_SECRET
    ```
    
+   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp2.png?raw=true" width="600" />
+   
    This will:
    - Spin up a webserver in the background running at http://localhost:8080.
    - Open your browser to grant authorisation access to your Deezer account.
    - Redirect to a page showing the API token & expiry (usually one hour but it is enough).
+   
 6. Save your token
 
-   <img src="https://github.com/g2r4i6e8/exportTracksFromYandexMusicToDeezer/blob/master/docs/deezerApp2.png?raw=true" width="600" />
 
 ## External requirements
 
